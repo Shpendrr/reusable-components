@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion should match the snapshot 1`] = `
+<div>
+  <div
+    class="w-full"
+  >
+    <button
+      class="w-full lg:w-[65%] mt-[50px] min-h-48 flex justify-between items-center p-4 border-[#d7d8df] border-b-2 bg-transparent text-base lg:mx-auto"
+    >
+      Accordion Title
+    </button>
+    <div
+      class="p-4 w-full lg:w-[65%] lg:mx-auto h-0 invisible overflow-hidden scale-y-0 transition-transform transition-height duration-200"
+    >
+      Accordion Body
+    </div>
+  </div>
+</div>
+`;

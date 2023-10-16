@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormWrapper matches the snapshot 1`] = `
+<form>
+  <div>
+    Child element
+  </div>
+</form>
+`;
