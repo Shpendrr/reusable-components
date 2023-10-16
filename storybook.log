@@ -1,0 +1,57 @@
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Progress: resolved 16, reused 8, downloaded 0, added 0
+Progress: resolved 26, reused 26, downloaded 0, added 0
+Progress: resolved 26, reused 27, downloaded 0, added 0
+Progress: resolved 48, reused 44, downloaded 0, added 0
+Progress: resolved 76, reused 51, downloaded 0, added 0
+Progress: resolved 97, reused 62, downloaded 0, added 0
+Progress: resolved 120, reused 74, downloaded 0, added 0
+Progress: resolved 150, reused 88, downloaded 0, added 0
+Progress: resolved 187, reused 104, downloaded 0, added 0
+Progress: resolved 213, reused 122, downloaded 0, added 0
+Progress: resolved 219, reused 140, downloaded 0, added 0
+Progress: resolved 238, reused 170, downloaded 0, added 0
+Progress: resolved 277, reused 195, downloaded 0, added 0
+Progress: resolved 338, reused 226, downloaded 0, added 0
+Progress: resolved 399, reused 249, downloaded 0, added 0
+Progress: resolved 431, reused 267, downloaded 0, added 0
+Progress: resolved 472, reused 284, downloaded 0, added 0
+Progress: resolved 535, reused 316, downloaded 0, added 0
+Progress: resolved 619, reused 352, downloaded 0, added 0
+Progress: resolved 678, reused 372, downloaded 0, added 0
+Progress: resolved 769, reused 411, downloaded 0, added 0
+Progress: resolved 874, reused 459, downloaded 0, added 0
+Progress: resolved 948, reused 493, downloaded 0, added 0
+Progress: resolved 1018, reused 540, downloaded 0, added 0
+Progress: resolved 1103, reused 573, downloaded 0, added 0
+Progress: resolved 1195, reused 613, downloaded 0, added 0
+Progress: resolved 1232, reused 771, downloaded 0, added 0
+Progress: resolved 1252, reused 1006, downloaded 0, added 0
+Progress: resolved 1256, reused 1163, downloaded 0, added 0
+ WARN  6 deprecated subdependencies found: @babel/plugin-proposal-class-properties@7.18.6, @babel/plugin-proposal-export-namespace-from@7.18.9, @babel/plugin-proposal-nullish-coalescing-operator@7.18.6, @babel/plugin-proposal-numeric-separator@7.18.6, @babel/plugin-proposal-object-rest-spread@7.20.7, @babel/plugin-proposal-optional-chaining@7.21.0
+Progress: resolved 1279, reused 1240, downloaded 0, added 0
+Packages: +669
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 1279, reused 1240, downloaded 0, added 1
+Progress: resolved 1279, reused 1240, downloaded 0, added 23
+Progress: resolved 1279, reused 1240, downloaded 0, added 53
+Progress: resolved 1279, reused 1240, downloaded 0, added 84
+Progress: resolved 1279, reused 1240, downloaded 0, added 125
+Progress: resolved 1279, reused 1240, downloaded 0, added 154
+Progress: resolved 1279, reused 1240, downloaded 0, added 213
+Progress: resolved 1279, reused 1240, downloaded 0, added 273
+Progress: resolved 1279, reused 1240, downloaded 0, added 340
+Progress: resolved 1279, reused 1240, downloaded 0, added 373
+Progress: resolved 1279, reused 1240, downloaded 0, added 395
+Progress: resolved 1279, reused 1240, downloaded 0, added 425
+Progress: resolved 1279, reused 1240, downloaded 0, added 443
+Progress: resolved 1279, reused 1240, downloaded 0, added 474
+Progress: resolved 1279, reused 1240, downloaded 0, added 505
+Progress: resolved 1279, reused 1240, downloaded 0, added 527
+Progress: resolved 1279, reused 1240, downloaded 0, added 561
+Progress: resolved 1279, reused 1240, downloaded 0, added 593
+Progress: resolved 1279, reused 1240, downloaded 0, added 611
+Progress: resolved 1279, reused 1240, downloaded 0, added 643
+Progress: resolved 1279, reused 1240, downloaded 0, added 658
+Progress: resolved 1279, reused 1240, downloaded 0, added 667
+ ERR_PNPM_LINKING_FAILED  Error: EPERM: operation not permitted, rename 'C:\Users\shpen\OneDrive\Desktop\reusable_components\node_modules\.pnpm\@testing-library+user-event@14.5.1_@testing-library+dom@9.3.3\node_modules\@testing-library\user-event_tmp_15332' -> 'C:\Users\shpen\OneDrive\Desktop\reusable_components\node_modules\.pnpm\@testing-library+user-event@14.5.1_@testing-library+dom@9.3.3\node_modules\@testing-library\user-event'
